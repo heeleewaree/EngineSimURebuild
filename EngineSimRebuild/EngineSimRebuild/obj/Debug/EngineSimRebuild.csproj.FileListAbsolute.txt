@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\bin\Debug\EngineSimRebuild.exe.config
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\bin\Debug\EngineSimRebuild.exe
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\bin\Debug\EngineSimRebuild.pdb
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.General.resources
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.Properties.Resources.resources
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.exe
+C:\Users\User\source\repos\EngineSimRebuild\EngineSimRebuild\obj\Debug\EngineSimRebuild.pdb
