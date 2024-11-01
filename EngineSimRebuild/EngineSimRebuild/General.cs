@@ -179,7 +179,7 @@ namespace EngineSimRebuild
             textBox_m.Text = removeDots(textBox_m.Text);
             byprat = Convert.ToDouble(textBox_m.Text); // Степень двухконтурности
             if (byprat > 10.0) byprat = 10.0;
-            if (byprat < 1.0) byprat = 1.0;
+            if (byprat < 0.0) byprat = 0.0;
 
             textBoxEtaFan.Text = removeDots(textBoxEtaFan.Text);
             eta[13] = Convert.ToDouble(textBoxEtaFan.Text); // КПД вентилятора
